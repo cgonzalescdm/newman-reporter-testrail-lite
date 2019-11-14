@@ -1,12 +1,12 @@
 {
-  "name": "newman-reporter-testrail",
-  "version": "1.0.9",
-  "description": "TestRail reporter for Newman",
+  "name": "newman-reporter-testrail-lite",
+  "version": "1.0.0",
+  "description": "TestRail for Newman with include_all false",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Billy Lam <3700437+billylam@users.noreply.github.com>",
+  "author": "cgonzalescdm",
   "license": "MIT",
   "dependencies": {
     "sync-request": "^6.0.0"
@@ -29,10 +29,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/billylam/newman-reporter-testrail.git"
+    "url": "git+https://github.com/cgonzalescdm/newman-reporter-testrail-lite.git"
   },
   "bugs": {
-    "url": "https://github.com/billylam/newman-reporter-testrail/issues"
+    "url": "https://github.com/cgonzalescdm/newman-reporter-testrail-lite/issues"
   },
-  "homepage": "https://github.com/billylam/newman-reporter-testrail#readme"
+  "homepage": "https://github.com/cgonzalescdm/newman-reporter-testrail-lite#readme"
 }
