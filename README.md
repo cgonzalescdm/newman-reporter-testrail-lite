@@ -28,7 +28,7 @@ pm.test("C226750 C226746 Status code is 200", function () {
 | TESTRAIL_RUNID (optional) | TestRail run id.  Update a specific run instead of creating a new run.  Can use the string "latest" to update latest run. |
 | TESTRAIL_SUITEID (optional) |TestRail suite id.  Mandatory in multi-suite projects.  Do not use in single-suite projects. |
 | TESTRAIL_TITLE (optional) | Title of test run to create. |
-| TESTRAIL_MILSTONE (optional) | TestRail milestone id. |
+| TESTRAIL_MILESTONE (optional) | TestRail milestone id. |
 
 You can use [direnv](https://github.com/direnv/direnv) to easily maintain directory-specific options.
 
