@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-testrail-lite",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "TestRail for Newman with include_all false",
   "main": "lib/index.js",
   "scripts": {
